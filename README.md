@@ -1,4 +1,4 @@
-# Hi there, I'm Shreykumar! 👋
+# Hi there, I'm Shrey! 👋
 
 I'm a Software Engineer who enjoys building smart systems with AI and solving real-world problems — with a good playlist in the background.
 
